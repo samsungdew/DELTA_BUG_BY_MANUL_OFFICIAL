@@ -93,7 +93,7 @@ async function startSesi() {
       } else if (_0x1f4755 === "open") {
         success('1', 'Tersambung');
         _0x4b6544.sendMessage("94742274855@s.whatsapp.net", {
-          'text': "*🪄мαηυ ∂єℓтα ¢яαѕн ѕυ¢¢єѕѕƒυℓℓу ¢σηηє¢тє∂ уσυя ωнαтѕαρρ...✨✓*\n\n*🥹...Please Subscribe My Channel...💗* - : www.youtube.com/@ManulOfficialTech\n\n > *_©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️_*"
+          'text': "*🪄мαηυ ∂єℓтα ¢яαѕн ѕυ¢¢єѕѕƒυℓℓу ¢σηηє¢тє∂ уσυя ωнαтѕαρρ...✨✓*\n\n*🥹...Please Subscribe My Channel...💗* - : www.youtube.com/@ManulOfficialTech\n\n> *_©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️_*"
         });
         if (autoJoin) {
           _0x4b6544.groupAcceptInvite(codeInvite);
