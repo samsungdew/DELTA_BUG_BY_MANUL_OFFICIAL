@@ -52,33 +52,7 @@
 
 
 # COPY WORKFLOW CODE
-``name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}``
+<a href='https://github.com/manulofficial7/GitHub-Workflow-Code' target="_blank"><img alt='Copy Workflow Code' src='https://img.shields.io/badge/Click here to copy workflow code-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
