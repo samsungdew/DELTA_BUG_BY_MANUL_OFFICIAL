@@ -52,8 +52,7 @@
 
 
 # COPY WORKFLOW CODE
-```
-name: Node.js CI
+``name: Node.js CI
 
 on:
   push:
@@ -79,8 +78,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
-        ```
+        node-version: ${{ matrix.node-version }}``
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
