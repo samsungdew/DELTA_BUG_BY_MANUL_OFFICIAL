@@ -48,10 +48,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## DEPLOY TO GITHUB WORKFLOW
+# DEPLOY TO GITHUB WORKFLOW
 
 
-# COPY WORKFLOW CODE
+## COPY WORKFLOW CODE
 <a href='https://github.com/manulofficial7/GitHub-Workflow-Code' target="_blank"><img alt='Copy Workflow Code' src='https://img.shields.io/badge/Click here to copy workflow code-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
@@ -60,7 +60,7 @@
 ## DEVELOPER
 
 <div align="left">
-  <a href="https://wa.me/94742274855?text=*ʜɪ+ᴍʀ+ᴄʏʙᴇʀ+ᴍᴀɴᴜʟ+ᴏꜰꜰɪᴄɪᴀʟ+ꜱɪʀ.🫡💗*"><img src="https://telegra.ph/file/49e1bb852fe8292c2614a.jpg" width="300" height="200" alt="Sid"></a>
+  <a href="https://wa.me/94742274855?text=*ʜɪ+ᴍʀ+ᴄʏʙᴇʀ+ᴍᴀɴᴜʟ+ᴏꜰꜰɪᴄɪᴀʟ+ꜱɪʀ.🫡💗*"><img src="https://telegra.ph/file/49e1bb852fe8292c2614a.jpg" width="300" height="300" alt="Sid"></a>
   
   | [MANUL](https://github.com/manulofficial7) |
   | Owner, Developer, Bug Fixer, Maintainer, updates |
